@@ -1,6 +1,9 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patidarashok)
 
-## Hi there 👋 My 
+### Hi 👋, I'm Arman!
+
+- Senior Software Engineer at Priceline.com LLC based in New York City, NY, USA
+- 15+ years of experience, currently working on Priceline.com Hotel Stay Product.
 
 <!--
 **apatidar1986/apatidar1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
