@@ -1,6 +1,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patidarashok)
 
-### Hi 👋, I'm Arman!
+### Hi 👋, I'm Ashok Patidar!
 
 - Senior Software Engineer at Priceline.com LLC based in New York City, NY, USA
 - 15+ years of experience, currently working on Priceline.com Hotel Stay Product.
